@@ -1,0 +1,7 @@
+name: MCBansLookup
+main: com.precipicegames.zeryl.mcbanslookup.MCBansLookup
+version: 1.0
+commands:
+  mclookup:
+    description: Looks up a player in the MCBans database.
+    usage: /mclookup [player]
